@@ -26,11 +26,11 @@ Python 3.10 or higher are required.
 
 * Open the downloaded `vulkansdk-macos-1.3.290.0.dmg` file, and specify the directory where Vulkan SDK will be installed. We recommend using the default path. If you customize the path, note it down as you'll need to set it as an environment variable later.
 
-  ![screenshot](src/Screenshot 2025-05-11 at 00.01.17.png)
+  ![screenshot](https://github.com/imyizhang/SAPIEN-Nightly/blob/main/src/Screenshot%202025-05-11%20at%2000.01.17.png)
 
 * Select the components you want to install. We recommend the following configuration for a minimal working installation. Development libraries for iOS are not necessary and take significant disk usage.
 
-  ![screenshot](src/Screenshot 2025-05-11 at 00.01.25.png)
+  ![screenshot](https://github.com/imyizhang/SAPIEN-Nightly/blob/main/src/Screenshot%202025-05-11%20at%2000.01.25.png)
 
 * Follow the remaining instructions to complete the installation.
 
